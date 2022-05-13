@@ -2,7 +2,7 @@
 
   - ## 3D ThreeJS 动画幻灯片放映效果
     
-      <iframe src="https://player.bilibili.com/player.html?aid=384021550&bvid=BV1BZ4y1a76X&cid=719298609&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+     <iframe src="https://player.bilibili.com/player.html?aid=384021550&bvid=BV1BZ4y1a76X&cid=719298609&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
       
       [Test](//github-tools.orlicz.top/Tests/3D-Pics.html)
       
@@ -11,3 +11,19 @@
       ```
       注意，请引用ThreeJS，另外，Pics3DRun接受2个参数：元素id&图画url
       ```
+      
+  - ## 3D ThreeJS 动画幻灯片放映效果
+  
+     <iframe src="//player.bilibili.com/player.html?aid=596556409&bvid=BV16B4y1y7Us&cid=719344828&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
+     
+     [Test](//github-tools.orlicz.top/Tests/Trans.html)
+      
+     [Code](//github-tools.orlicz.top/Trans)
+
+  - ## 音乐播放器
+
+     <iframe src="//player.bilibili.com/player.html?aid=596556409&bvid=BV16B4y1y7Us&cid=719344828&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
+     
+     [Test](//github-tools.orlicz.top/Tests/MusicPlayer.html)
+      
+     [Code](//github-tools.orlicz.top/MusicPlayer)
