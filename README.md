@@ -12,7 +12,7 @@
       注意，请引用ThreeJS，另外，Pics3DRun接受2个参数：元素id&图画url
       ```
       
-  - ## 3D ThreeJS 动画幻灯片放映效果
+  - ## BaiDu Trans API 翻译
   
      <iframe src="//player.bilibili.com/player.html?aid=596556409&bvid=BV16B4y1y7Us&cid=719344828&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
      
@@ -22,7 +22,7 @@
 
   - ## 音乐播放器
 
-     <iframe src="//player.bilibili.com/player.html?aid=596556409&bvid=BV16B4y1y7Us&cid=719344828&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
+     <iframe src="//player.bilibili.com/player.html?aid=981594180&bvid=BV1pt4y1x7C3&cid=719347668&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
      
      [Test](//github-tools.orlicz.top/Tests/MusicPlayer.html)
       
