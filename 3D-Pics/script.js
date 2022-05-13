@@ -1,4 +1,4 @@
-function Pics3DRun(pics = [
+function Pics3DRun(ThreeEleId = 'three-container',pics = [
   'http://127.0.0.1/Pics/1.jpg',
   'http://127.0.0.1/Pics/2.jpg',
   'http://127.0.0.1/Pics/3.jpg',
@@ -315,7 +315,7 @@ function Pics3DRun(pics = [
       alpha: true
     });
     this.renderer.setPixelRatio(Math.min(2, window.devicePixelRatio || 1));
-    document.getElementById('three-container').appendChild(this.renderer.domElement);
+    document.getElementById(ThreeEleId).appendChild(this.renderer.domElement);
 
     this.camera = new THREE.PerspectiveCamera(
       params.fov,
